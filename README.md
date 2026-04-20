@@ -25,3 +25,4 @@ two12 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot
 stringbuildingfunction : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20231618.png
 stringhandlingdemo : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20231644.png
 buttonexample.java : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20232014.png
+clockbuttondemo.java : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20232029.png

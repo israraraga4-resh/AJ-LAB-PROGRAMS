@@ -27,3 +27,4 @@ stringhandlingdemo : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/ma
 buttonexample.java : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20232014.png
 clockbuttondemo.java : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20232029.png
 swingexample.java : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20232048.png
+colortabbledpane.java : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20232609.png

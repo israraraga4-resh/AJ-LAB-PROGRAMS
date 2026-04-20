@@ -8,3 +8,4 @@ p6 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%20
 p7 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20223645.png
 p8 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20223653.png
 p9 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20223659.png
+p10 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20223705.png

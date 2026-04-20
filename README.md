@@ -17,3 +17,4 @@ twop4 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot
 twop5 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20230121.png
 twop6 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20230127.png
 twop7 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20230135.png
+twop8 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20230141.png

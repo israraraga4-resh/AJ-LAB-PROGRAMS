@@ -22,3 +22,4 @@ twop9 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot
 two10 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20230159.png
 two11 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20230208.png
 two12 : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20230217.png
+stringbuildingfunction : https://github.com/israraraga4-resh/AJ-LAB-PROGRAMS/blob/main/Screenshot%202026-04-20%20231618.png
